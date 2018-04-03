@@ -1,0 +1,1 @@
+start l\template.txt & taskkill /im cmd.exe

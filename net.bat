@@ -1,0 +1,1 @@
+start documents\net.txt & taskkill /im cmd.exe

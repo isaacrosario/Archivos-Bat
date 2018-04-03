@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\nuevo.txt & taskkill /im cmd.exe

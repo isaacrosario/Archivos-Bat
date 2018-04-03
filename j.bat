@@ -1,0 +1,1 @@
+start Documents\juega.txt & taskkill /im cmd.exe

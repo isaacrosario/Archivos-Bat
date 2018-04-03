@@ -1,0 +1,1 @@
+start https://www.repairclinic.com/?clearLs=true & taskkill /im cmd.exe

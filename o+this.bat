@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\this.txt & start http://www.appliancepartspros.com/ & TASKKILL /IM CMD.EXE

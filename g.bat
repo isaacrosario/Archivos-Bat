@@ -1,0 +1,1 @@
+start chrome.exe & taskkill /im cmd.exe

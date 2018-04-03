@@ -1,0 +1,1 @@
+start code.txt & taskkill /im cmd.exe

@@ -1,0 +1,1 @@
+C:\Users\Administrador\L\porcentaje.jpeg & taskkill /im cmd.exe

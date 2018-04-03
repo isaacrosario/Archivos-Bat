@@ -1,0 +1,1 @@
+start L\CATEGORIA & taskkill /im cmd.exe

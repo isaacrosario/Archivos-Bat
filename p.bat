@@ -1,0 +1,1 @@
+start notepad.exe & taskkill /im cmd.exe

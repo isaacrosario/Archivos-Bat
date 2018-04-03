@@ -1,0 +1,1 @@
+start wordpad.exe & taskkill /im cmd.exe

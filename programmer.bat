@@ -1,0 +1,1 @@
+start https://www.youtube.com/watch?v=phBjQbo0T3A & taskkill /im cmd.exe

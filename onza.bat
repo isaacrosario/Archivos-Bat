@@ -1,0 +1,1 @@
+start https://www.google.com.do/search?ei=TEgcWt5xxoeZAYa1g_gD&q=onza+a+libra&oq=onza+a+libra&gs_l=psy-ab.12..0i71k1l4.0.0.0.11745.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.A7VpK8G896o & taskkill /im cmd.exe

@@ -1,0 +1,1 @@
+start https://www.youtube.com/user/vaughantv/playlists & taskkill /im cmd.exe

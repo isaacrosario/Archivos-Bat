@@ -1,0 +1,1 @@
+start C:\Users\Administrador\Desktop\Lenin\14-03-2018 & taskkill /im cmd.exe

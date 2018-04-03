@@ -1,0 +1,1 @@
+start www.github.com & taskkill /im cmd.exe

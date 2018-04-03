@@ -1,0 +1,1 @@
+start https://open.inkfrog.com/listings/live/ & taskkill /im cmd.exe

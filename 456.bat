@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\pages.txt & taskkill /im cmd.exe

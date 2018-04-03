@@ -1,0 +1,1 @@
+start Documents\mensaje.txt & timeout /nobreak 01 & taskkill /im cmd.exe

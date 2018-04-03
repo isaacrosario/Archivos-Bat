@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\TEMPORAL\isaac.txt & taskkill /im cmd.exe

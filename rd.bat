@@ -1,0 +1,1 @@
+start "" "E:\EBAY LENIN\" & taskkill /im cmd.exe

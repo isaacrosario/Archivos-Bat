@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\D\electrodomesticos.txt & taskkill /im cmd.exe

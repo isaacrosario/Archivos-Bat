@@ -1,0 +1,1 @@
+start https://www.onlinegdb.com/online_c++_compiler & taskkill /im cmd.exe

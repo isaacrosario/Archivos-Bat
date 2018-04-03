@@ -1,0 +1,1 @@
+start l\paypal.txt & taskkill /im cmd.exe

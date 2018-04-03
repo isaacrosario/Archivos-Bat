@@ -1,0 +1,1 @@
+start C:\Users\Administrador\Desktop\js & taskkill /im cmd.exe

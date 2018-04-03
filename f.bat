@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\folder.txt & taskkill /im cmd.exe

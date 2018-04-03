@@ -1,0 +1,1 @@
+start C:\Users\Administrador\Documents\model.txt & taskkill /im cmd.exe

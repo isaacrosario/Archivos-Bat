@@ -1,0 +1,1 @@
+start https://ttsreader.com/es/ & taskkill /im cmd.exe

@@ -1,0 +1,1 @@
+start https://www.amazon.com/ref=nav_logo takkill /im cmd.exe

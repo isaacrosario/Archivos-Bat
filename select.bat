@@ -1,0 +1,1 @@
+start https://www.partselect.com/ & taskkill /im cmd.exe

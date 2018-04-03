@@ -1,0 +1,1 @@
+start city.txt & taskkill /im cmd.exe

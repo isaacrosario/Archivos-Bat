@@ -1,0 +1,1 @@
+start C:\Users\Administrador\L\D\USED.txt & taskkill /im cmd.exe

@@ -1,0 +1,1 @@
+start http://web2.0calc.es/ & taskkill /im cmd.exe
