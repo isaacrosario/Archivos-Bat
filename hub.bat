@@ -1,1 +1,1 @@
-start www.github.com & taskkill /im cmd.exe
+start https://www.github.com/isaacrosario & taskkill /im cmd.exe

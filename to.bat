@@ -1,0 +1,1 @@
+start http://youtubemp3.to & taskkill /im cmd.exe

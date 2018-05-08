@@ -1,2 +1,1 @@
-taskkill /f /im notepad.exe & taskkill /f /im dllhost.exe 
-
+taskkill /f /im ccleaner.exe & taskkill /f /im mysqlnotifier.exe

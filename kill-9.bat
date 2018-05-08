@@ -1,1 +1,1 @@
-taskkill /f /im ccleaner.exe
+taskkill /f /im ccleaner.exe & taskkill /f /im mysqlnotifier.exe  & taskkill /f /im remotemouse.exe

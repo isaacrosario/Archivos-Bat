@@ -1,0 +1,1 @@
+start https://github.com/isaacrosario/html & taskkill /im cmd.exe

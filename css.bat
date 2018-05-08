@@ -1,0 +1,1 @@
+start http://css3generator.com/ & taskkill /im cmd.exe

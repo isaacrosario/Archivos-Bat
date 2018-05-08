@@ -1,0 +1,1 @@
+start https://github.com/isaacrosario?tab=repositories & taskkill /f /im cmd.exe
