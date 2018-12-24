@@ -1,1 +1,1 @@
-start chrome.exe & taskkill /im cmd.exe
+start www.google.com & taskkill /im cmd.exe

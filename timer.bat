@@ -1,2 +1,2 @@
 @echo off
-start http://cronometro.net/ & taskkill /im cmd.exe
+start http://timer.net/ & taskkill /im cmd.exe
