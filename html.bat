@@ -1,1 +1,1 @@
-start https://github.com/isaacrosario/html & taskkill /im cmd.exe
+start "" "C:\Users\Nick\Desktop\Udemy\curso completo de html\Archivos Bienes Raices\Proyecto Finalizado"

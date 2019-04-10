@@ -1,0 +1,1 @@
+start "" "C:\Users\Nick\Desktop\Todas las carpetas"

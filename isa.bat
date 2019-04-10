@@ -1,0 +1,1 @@
+cd desktop & start isa.html

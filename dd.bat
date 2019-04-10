@@ -1,0 +1,1 @@
+start https://ddownr.com/ & taskkill /im cmd.exe

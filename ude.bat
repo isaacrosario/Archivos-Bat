@@ -1,0 +1,1 @@
+start https://www.udemy.com/home/my-courses/learning/ & taskkill /f /im cmd.exe

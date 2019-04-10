@@ -1,1 +1,1 @@
-start calc.exe & taskkill /im cmd.exe
+start code

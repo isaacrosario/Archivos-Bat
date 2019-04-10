@@ -1,0 +1,1 @@
+start https://www.google.com/maps/@18.5032261,-69.8299474,15z
