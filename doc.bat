@@ -1,1 +1,1 @@
-start documents
+cd documents
