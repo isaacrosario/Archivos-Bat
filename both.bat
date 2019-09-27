@@ -1,0 +1,1 @@
+cd desktop & cd Propuesta tecnica de elvin & start "" "Propuesta Tecnica.docx" & start trabajo.docx

@@ -1,1 +1,1 @@
-start http://www.appliancepartspros.com/ & TASKKILL /IM CMD.EXE
+start desktop\otros
