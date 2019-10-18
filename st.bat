@@ -1,1 +1,0 @@
-start desktop\st.txt

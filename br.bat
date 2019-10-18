@@ -1,1 +1,1 @@
-start https://github.com/isaacrosario/br
+cd desktop & git c https://github.com/isaacrosario/br.git

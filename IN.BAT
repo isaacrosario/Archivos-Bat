@@ -1,0 +1,1 @@
+START "" "C:\Users\isaac\Desktop\Otros\LENIN\18-oct-2019\sin nada\INFO.TXT"

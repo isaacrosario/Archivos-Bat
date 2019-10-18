@@ -1,1 +1,1 @@
-cd desktop & python isa.py
+start notepad

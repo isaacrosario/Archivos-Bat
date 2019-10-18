@@ -1,0 +1,1 @@
+start "" "C:\Users\isaac\Desktop\Otros\Cuatrimestre 9\4) Jueves\Administracion de servidores (Elvin Rafael Ramon Araujo)\Elvin\AAAAAAA"

@@ -1,1 +1,1 @@
-cd desktop\otros\ka
+start "" "C:\Users\isaac\Desktop\Otros\Music\ZZZZZ........KA"

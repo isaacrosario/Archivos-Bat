@@ -1,2 +1,1 @@
-@echo off
-start C:\Users\Administrador\Desktop\C#\ImagenesC# & taskkill /im cmd.exe
+start C:\Users\isaac\Desktop\Otros\Office\IMG

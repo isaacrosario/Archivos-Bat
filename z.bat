@@ -1,1 +1,0 @@
-start "" "E:\EBAY LENIN\ZZZZZZZ"
