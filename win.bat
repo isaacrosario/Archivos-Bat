@@ -1,1 +1,1 @@
-start winword
+start winword.exe
