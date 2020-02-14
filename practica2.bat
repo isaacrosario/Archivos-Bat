@@ -1,1 +1,0 @@
-start http://estudiosenlineas.com/tutorial-practicas-sql-server-2/ & taskkill /im cmd.exe

@@ -1,1 +1,1 @@
-start www.appliancesbuyandsell.com/wp-admin & taskkill /im cmd.exe
+start https://www.ebay.com/sh/lst/active

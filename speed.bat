@@ -1,1 +1,1 @@
-start http://claro.speedtestcustom.com/
+start https://www.speedtest.net/

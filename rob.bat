@@ -1,0 +1,1 @@
+start "" "C:\Users\isaac\Desktop\Otros\One drive isaac\5) Cuatrimestre10\5) Electiva III (robotica)\zzzz.....trabajo de investigacion.jpeg"

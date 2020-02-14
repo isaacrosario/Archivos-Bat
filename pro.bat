@@ -1,2 +1,2 @@
 @echo off
-start http://icones.pro/es/ & taskkill /im cmd.exe
+cd desktop & start "" "Proyecto que cambiara tu vida"

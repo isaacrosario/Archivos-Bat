@@ -1,1 +1,1 @@
-start C:\Users\isaac\Desktop\Otros\LENIN\Descripciones\description.txt
+start C:\Users\isaac\Desktop\Otros\LENIN\Descripciones

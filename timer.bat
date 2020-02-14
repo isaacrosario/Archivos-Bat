@@ -1,2 +1,2 @@
 @echo off
-start http://timer.net/ & taskkill /im cmd.exe
+start https://www.timer.net/5-minutes.html & taskkill /im cmd.exe

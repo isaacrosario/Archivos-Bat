@@ -1,0 +1,1 @@
+start C:\Users\isaac\Desktop\Otros\lenin\Descripciones\nuevo.txt

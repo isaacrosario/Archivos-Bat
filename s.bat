@@ -1,1 +1,1 @@
-start desktop
+start .

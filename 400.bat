@@ -1,0 +1,1 @@
+start https://blog.desdelinux.net/mas-de-400-comandos-para-gnulinux-que-deberias-conocer/

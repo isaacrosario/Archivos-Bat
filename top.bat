@@ -1,1 +1,1 @@
-start https://top-3-sources.myshopify.com/admin
+start https://top3sources.com/

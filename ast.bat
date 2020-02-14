@@ -1,0 +1,1 @@
+start "" "C:\Users\isaac\Desktop\Remmy asterisk"

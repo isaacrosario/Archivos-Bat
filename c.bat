@@ -1,1 +1,1 @@
-start code
+start calc.exe
